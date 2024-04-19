@@ -1,4 +1,25 @@
-.img{
-  height: 50px;
-  width: 50px;
+.emailLabel {
+  width: 100px;
 }
+
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 50px;
+}
+
+.brandName{
+  color: rgb(116, 42, 42);
+  font-size: 50px;
+}
+
+.chocoLogo{
+  width: 200px;
+}
+
+.Log-in{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+}
+
