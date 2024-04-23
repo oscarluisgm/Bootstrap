@@ -29,3 +29,14 @@ nav{
   height: 100vh;
   align-items: center;
 }
+
+body{
+  display: block;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.507), rgba(255, 255, 0, 0.425)), url(./Images/chocolatePastry2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 20px;
+  align-items: center;
+  justify-content: space-between;
+}
